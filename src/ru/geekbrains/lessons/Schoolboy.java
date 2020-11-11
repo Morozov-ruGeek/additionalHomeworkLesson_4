@@ -1,5 +1,5 @@
 package ru.geekbrains.lessons;
-import java.util.ArrayList;
+import java.util.*;
 
 public class Schoolboy {
     static int age;
