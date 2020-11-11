@@ -22,7 +22,6 @@ public class Main {
 (школьники не хотят постоянно переходить из класса в класс, теряя друзей)
 	 */
 
-
         ArrayList<Schoolboy> students = new ArrayList<>();
         students.add(new Schoolboy(12,4, "Русских Антон"));
         students.add(new Schoolboy(13,4,"Орлов Владислав"));
